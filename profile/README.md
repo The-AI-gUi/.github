@@ -1,4 +1,4 @@
-                                                                  The AI 👽 GUY 🤖 </p>
+                                                                  The AI 👽 GUY 🤖 
 
 <p align="center">
   <strong>Build. Learn. Innovate. Together.</strong><br><br>
