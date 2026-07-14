@@ -1,4 +1,4 @@
-# 🤖 The AI GUY
+#                                                                              🤖 The AI GUY
 
 <p align="center">
   <strong>Build. Learn. Innovate. Together.</strong><br><br>
@@ -231,10 +231,10 @@ Whether you need software built, want to contribute to open source, explore free
 [theaiguyofficial@gmail.com](mailto:theaiguyofficial@gmail.com)
 
 📺 **YouTube**
-[The AI GUY](https://www.youtube.com/@The_AI_gUi)
+[The AI 👽 GUY 🤖](https://www.youtube.com/@The_AI_gUi)
 
 📸 **Instagram**
-@The_AI_Guy
+[The AI 👽 GUY 🤖](https://www.instagram.com/the_ai_gui/)
 
 🌐 **GitHub Organization**
 https://github.com/The-AI-GUY
