@@ -1199,68 +1199,134 @@ Building the future through **Artificial Intelligence • Software Engineering �
 
 <br/>
 
-🎯 Current Focus
-</div> <table> <tr> <td width="50%" align="center">
-🤖 Artificial Intelligence
-
-████████████████████ 100%
-
-AI Applications
-LLMs
-AI Agents
-Automation
-Machine Learning
-
-</td> <td width="50%" align="center">
-🌐 Software Engineering
-
-████████████████████ 100%
-
-Full Stack Development
-SaaS Platforms
-APIs
-Modern Architecture
-
-</td> </tr> <tr> <td align="center">
-🌍 Open Source
-
-██████████████████░░ 90%
-
-Community Projects
-Developer Resources
-Knowledge Sharing
-
-</td> <td align="center">
-🔒 Cybersecurity
-
-████████████████░░░░ 80%
-
-Secure Development
-Security Research
-Ethical Practices
-
-</td> </tr> <tr> <td align="center">
-☁ Cloud Computing
-
-███████████████░░░░░ 75%
-
-Cloud Platforms
-DevOps
-Deployment Systems
-
-</td> <td align="center">
-🛠 Developer Tools
-
-█████████████████░░░ 85%
-
-Automation
-Productivity Tools
-Engineering Utilities
-
-</td> </tr> </table> <br/> <div align="center">
 <br/>
 
 <div align="center">
+
+## 🎯 Current Focus
+
+Building the foundation of tomorrow through  
+**Artificial Intelligence • Software Engineering • Cybersecurity • Cloud • Open Source**
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+## 🤖 Artificial Intelligence
+
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 100%
+
+**Exploring**
+
+• AI Applications  
+• Large Language Models (LLMs)  
+• AI Agents  
+• Intelligent Automation  
+• Machine Learning Systems  
+
+</td>
+
+<td width="50%" align="center">
+
+## 🌐 Software Engineering
+
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 100%
+
+**Building**
+
+• Full Stack Applications  
+• SaaS Platforms  
+• Scalable APIs  
+• Modern Software Architecture  
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+## 🌍 Open Source
+
+🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ 80%
+
+**Growing**
+
+• Community Projects  
+• Developer Resources  
+• Knowledge Sharing  
+• Open Collaboration  
+
+</td>
+
+<td width="50%" align="center">
+
+## 🔒 Cybersecurity
+
+🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ 80%
+
+**Advancing**
+
+• Secure Development  
+• Security Research  
+• Ethical Security Practices  
+• Defensive Engineering  
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+## ☁️ Cloud Computing
+
+🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ 70%
+
+**Developing**
+
+• Cloud Platforms  
+• DevOps Practices  
+• Deployment Systems  
+• Cloud Infrastructure  
+
+</td>
+
+<td width="50%" align="center">
+
+## 🛠 Developer Tools
+
+🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ 80%
+
+**Creating**
+
+• Automation Tools  
+• Productivity Solutions  
+• Engineering Utilities  
+• Developer Experiences  
+
+</td>
+
+</tr>
+
+</table>
+
+<br/>
+
+<div align="center">
+
+🚀 **Focused on creating intelligent, secure, and scalable technology.**
+
+</div>
+
+<br/>
 
 ## 🌌 Future Goals
 
