@@ -317,3 +317,183 @@ Great technology is built together.
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1200&color=00F5FF&center=true&width=850&lines=Ideas+Become+Projects.;Projects+Create+Impact.;Technology+Changes+The+World."/>
 
 </div>
+
+<div align="center">
+
+# 🚀 What We Build
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=2800&pause=1000&color=00F5FF&center=true&width=900&lines=Artificial+Intelligence;Software+Engineering;Cybersecurity;Cloud+Computing;Open+Source+Innovation"/>
+
+</div>
+
+
+The AI 👽 GUY 🤖 focuses on building technology across multiple domains,
+combining intelligence, security, scalability, and creativity.
+
+
+<br/>
+
+
+<table>
+
+<tr>
+
+<td align="center" width="33%">
+
+# 🤖
+
+## Artificial Intelligence
+
+Building intelligent systems powered by modern AI technologies.
+
+<br/>
+
+**Focus**
+
+🧠 Machine Learning  
+💬 Large Language Models  
+⚡ AI Agents  
+👁 Computer Vision  
+🔄 Intelligent Automation  
+📊 Data Intelligence  
+
+</td>
+
+
+<td align="center" width="33%">
+
+# 🌐
+
+## Software Engineering
+
+Creating scalable and modern software solutions.
+
+<br/>
+
+**Focus**
+
+⚛️ Full Stack Development  
+🚀 SaaS Platforms  
+🔌 APIs & Backend Systems  
+📱 Applications  
+🛠 Developer Tools  
+🏗 Software Architecture  
+
+</td>
+
+
+<td align="center" width="33%">
+
+# 🔒
+
+## Cybersecurity
+
+Building secure technology and promoting responsible security practices.
+
+<br/>
+
+**Focus**
+
+🛡 Secure Development  
+🔍 Security Research  
+⚔ Ethical Hacking  
+🌐 Network Security  
+🔐 Privacy Awareness  
+🚨 Vulnerability Research  
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td align="center">
+
+# ☁️
+
+## Cloud Computing
+
+Engineering reliable cloud-native solutions.
+
+<br/>
+
+**Focus**
+
+☁ Cloud Infrastructure  
+🐳 Containers  
+⚙ DevOps  
+🔄 CI/CD  
+📦 Scalable Systems  
+🌍 Distributed Applications  
+
+</td>
+
+
+<td align="center">
+
+# ⚡
+
+## Automation
+
+Creating tools that improve productivity.
+
+<br/>
+
+**Focus**
+
+🤖 Workflow Automation  
+🔧 Developer Utilities  
+📡 Integrations  
+📈 Productivity Systems  
+🧩 Smart Tools  
+
+</td>
+
+
+<td align="center">
+
+# 🌍
+
+## Open Source
+
+Growing through collaboration and shared knowledge.
+
+<br/>
+
+**Focus**
+
+💻 Community Projects  
+📚 Documentation  
+🤝 Contributions  
+🌱 Developer Growth  
+🚀 Open Innovation  
+
+</td>
+
+</tr>
+
+</table>
+
+
+<br/>
+
+
+<div align="center">
+
+# 🧬 Technology Ecosystem
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=1000&color=00F5FF&center=true&width=850&lines=Modern+Technology+Stack;Building+The+Future+With+Code"/>
+
+</div>
+
+
+## 🤖 Artificial Intelligence Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=8"/>
+
+</div>
+
+
