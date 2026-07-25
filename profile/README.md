@@ -538,7 +538,7 @@ Reliable Data Systems • Scalable Storage • Modern Database Architecture
 
 ## 🔒 Security & Development Tools
 
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,postman&perline=8"/>
+<img src="https://skillics.dev/icons?i=linux,bash,git,github,vscode,postman&perline=8"/>
 
 <br/>
 
