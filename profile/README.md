@@ -1328,9 +1328,14 @@ Building the foundation of tomorrow through
 
 <br/>
 
-## 🌌 Future Goals
+<br/>
 
-Building tomorrow's technology through **AI Innovation • Open Source • Security • Cloud Computing**
+<div align="center">
+
+# 🌌 Future Goals
+
+### Building tomorrow's technology through  
+**AI Innovation • Open Source • Cybersecurity • Cloud Computing**
 
 </div>
 
@@ -1338,15 +1343,15 @@ Building tomorrow's technology through **AI Innovation • Open Source • Secur
 
 <div align="center">
 
-| 🚀 | Vision |
+| 🚀 | Future Vision |
 |:---:|:---|
-| 🚀 | Build AI-powered products that solve real-world problems |
-| 🤖 | Create intelligent automation systems |
-| ☁️ | Develop scalable cloud-native platforms |
-| 🔒 | Advance secure software engineering practices |
-| 🛠️ | Release developer-first tools and frameworks |
-| 📚 | Create high-quality technical learning resources |
-| 🌍 | Expand global open-source collaboration |
+| 🚀 | Build AI-powered products that solve meaningful real-world challenges |
+| 🤖 | Create intelligent automation systems powered by modern AI |
+| ☁️ | Develop scalable cloud-native platforms and infrastructure |
+| 🔒 | Advance secure software engineering and cybersecurity practices |
+| 🛠️ | Release developer-first tools, frameworks, and utilities |
+| 📚 | Create high-quality technical resources and learning platforms |
+| 🌍 | Expand global open-source collaboration and innovation |
 | 🔥 | Inspire the next generation of technology builders |
 
 </div>
@@ -1357,12 +1362,18 @@ Building tomorrow's technology through **AI Innovation • Open Source • Secur
 
 ## 🌟 The Journey Has Just Begun
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2800&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=Small+Ideas.;Powerful+Technology.;Global+Impact.;Building+The+Future+With+AI."/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2800&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=Small+Ideas.;Powerful+Technology.;Global+Impact.;Building+The+Future+With+AI.;Creating+Tomorrow's+Innovation."/>
 
 <br/>
 
 ### 🚀 Innovate • Build • Secure • Share
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00F5FF"/>
+
 </div>
+
+<br/>
 
 <br/>
