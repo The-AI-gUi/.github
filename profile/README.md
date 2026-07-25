@@ -522,7 +522,7 @@ Growing through collaboration and shared knowledge.
     Full Stack Applications |
     REST APIs |
     SaaS Platforms 
-
+    Modern Web Architecture 
 
 
 <br/>
@@ -537,5 +537,61 @@ Growing through collaboration and shared knowledge.
 </div>
 
 
-Modern Web Architecture |
+    Cloud Infrastructure
+    Containerization
+    Deployment Automation
+    CI/CD Pipelines
+    Scalable Architecture
+    Cloud Native Applications
 
+
+
+<br/>
+
+
+## 🗄 Data & Database Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase&perline=8"/>
+
+</div>
+
+    Database Engineering
+    Data Management
+    Analytics
+    Data Pipelines
+    Backend Storage Systems
+
+
+
+<br/>
+
+
+## 🔐 Security Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,bash,ubuntu,kali,git&perline=8"/>
+
+</div>
+
+    Secure Coding
+    Ethical Security
+    Linux Systems
+    Security Testing
+    Network Fundamentals
+    Security Awareness
+
+
+
+<br/>
+
+
+<div align="center">
+
+# 🚀 Technology Philosophy
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2500&pause=1000&color=00F5FF&center=true&width=850&lines=Code+With+Purpose.;Design+For+Scale.;Build+For+Impact."/>
+
+</div>
