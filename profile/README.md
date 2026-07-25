@@ -1012,15 +1012,15 @@ Whether you're writing your first line of code or shipping production systems—
 <!-- GitHub Contribution Snake -->
 <div align="center">
 
-## 🐍 Contribution Activity
+# 📊 Organization Highlights
 
-> Enable this after configuring GitHub Actions.
+<img src="https://img.shields.io/github/stars/The-AI-GUY?style=for-the-badge&logo=github&color=yellow">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/The-AI-GUY/The-AI-GUY/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/The-AI-GUY/The-AI-GUY/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/The-AI-GUY/The-AI-GUY/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://img.shields.io/github/forks/The-AI-GUY?style=for-the-badge&logo=github">
+
+<img src="https://img.shields.io/github/repo-size/The-AI-GUY/profile?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Open%20Source-Active-success?style=for-the-badge">
 
 </div>
 
