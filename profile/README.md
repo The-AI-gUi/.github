@@ -439,10 +439,190 @@ Using technology to improve productivity.
      ↓
     Real World Impact
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2800&pause=1000&color=00F5FF&center=true&width=900&lines=AI+Powered.;Cloud+Ready.;Secure+By+Design.;Open+Source+Driven."/>
+
+</div>
+
+<div align="center">
+
+# ⚙️ Technology Ecosystem
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F5FF&center=true&width=900&lines=Modern+Technology+Stack;AI+%7C+Cloud+%7C+Security+%7C+Open+Source;Engineering+The+Future"/>
+
+</div>
 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2800&pause=1000&color=00F5FF&center=true&width=900&lines=AI+Powered.;Cloud+Ready.;Secure+By+Design.;Open+Source+Driven."/>
+## 🤖 Artificial Intelligence & Data
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=8"/>
+
+<br/>
+
+Machine Learning • Deep Learning • LLMs • AI Agents • Computer Vision • Data Intelligence
+
+</div>
+
+
+<br/>
+
+
+<div align="center">
+
+## 🌐 Software Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind&perline=10"/>
+
+<br/>
+
+Frontend • Backend • Full Stack • APIs • SaaS • Modern Web Applications
+
+</div>
+
+
+<br/>
+
+
+<div align="center">
+
+## 📱 Mobile Development
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&perline=8"/>
+
+<br/>
+
+Cross Platform Apps • Mobile Experiences • Connected Applications
+
+</div>
+
+
+<br/>
+
+
+<div align="center">
+
+## ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,firebase,vercel,nginx&perline=8"/>
+
+<br/>
+
+Cloud Infrastructure • Containers • CI/CD • Deployment Automation • Scalable Systems
+
+</div>
+
+
+<br/>
+
+
+<div align="center">
+
+## 🗄️ Databases & Storage
+
+<img src="https://skillics.dev/icons?i=postgres,mongodb,mysql,redis,firebase,supabase&perline=8"/>
+
+<br/>
+
+Reliable Data Systems • Scalable Storage • Modern Database Architecture
+
+</div>
+
+
+<br/>
+
+
+<div align="center">
+
+## 🔒 Security & Development Tools
+
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,postman&perline=8"/>
+
+<br/>
+
+Secure Coding • Ethical Security • Developer Productivity • Automation
+
+</div>
+
+
+<br/>
+
+
+# 🧩 Our Engineering Approach
+
+
+<table>
+
+<tr>
+
+<td align="center" width="20%">
+
+## 💡
+
+### Discover
+
+Research problems and explore possibilities.
+
+</td>
+
+
+<td align="center" width="20%">
+
+## 🧠
+
+### Design
+
+Create efficient and scalable solutions.
+
+</td>
+
+
+<td align="center" width="20%">
+
+## ⚙️
+
+### Develop
+
+Build reliable technology with modern tools.
+
+</td>
+
+
+<td align="center" width="20%">
+
+## 🔍
+
+### Improve
+
+Test, secure, and optimize continuously.
+
+</td>
+
+
+<td align="center" width="20%">
+
+## 🌍
+
+### Share
+
+Release knowledge and innovation openly.
+
+</td>
+
+</tr>
+
+</table>
+
+
+<br/>
+
+
+<div align="center">
+
+# 🚀 Technology Without Limits
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2800&pause=1000&color=00F5FF&center=true&width=900&lines=Code+%7C+Create+%7C+Secure+%7C+Deploy+%7C+Scale"/>
 
 </div>
