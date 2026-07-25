@@ -549,7 +549,7 @@ Reliable Data Systems • Scalable Storage • Modern Database Architecture
 
 <br/><br/>
 
-> 🛡️ Building secure systems through automation, ethical security practices, and modern development workflows.
+ 🛡️ Building secure systems through automation, ethical security practices, and modern development workflows.
 
 <br/>
 
@@ -876,11 +876,11 @@ At **The AI 👽 GUY 🤖**, we believe the future of technology is built throug
 
 Open source is more than writing code — it is a movement powered by people who:
 
-- 🌍 **Share knowledge** and ideas with the world
-- 🤝 **Support developers** at every skill level
-- 💡 **Build meaningful solutions** through collaboration
-- 🚀 **Make technology accessible** for everyone
-- 🔥 **Create, experiment, and innovate together**
+    - 🌍 **Share knowledge** and ideas with the world
+    - 🤝 **Support developers** at every skill level
+    - 💡 **Build meaningful solutions** through collaboration
+    - 🚀 **Make technology accessible** for everyone
+    - 🔥 **Create, experiment, and innovate together**
 
 <br/>
 
@@ -1109,7 +1109,7 @@ You can contribute, learn, and grow with **The AI 👽 GUY 🤖 community**.
 
 </div>
 
-<br/></div> ```
+<br/></div> 
 
 <div align="center">
 
@@ -1160,21 +1160,45 @@ open-source collaboration, and community-driven innovation.
                     💡 Foundation
 ```
 
-<br/> <div align="center">
-📌 Development Roadmap
+<br/>
+
+<div align="center">
+
+## 🗺️ Development Roadmap
+
+Building the future through **Artificial Intelligence • Software Engineering • Cybersecurity • Open Source**
+
 </div>
-Status	Goal
-✅ Completed	Build AI-powered applications
-✅ Completed	Create modern software projects
-✅ Completed	Establish open-source organization
-🔄 Active	Expand AI research projects
-🔄 Active	Develop developer tools
-🔄 Active	Publish technical resources
-🔜 Future	Launch AI ecosystem platforms
-🔜 Future	Build cloud-native solutions
-🔜 Future	Create security research tools
-🔜 Future	Grow global developer community
-<br/> <div align="center">
+
+<br/>
+
+<div align="center">
+
+| Status | Timeline | Goal |
+|:---:|:---:|:---|
+| ✅ | Completed | Build AI-powered applications |
+| ✅ | Completed | Create modern software projects |
+| ✅ | Completed | Establish open-source organization |
+| 🔄 | Active | Expand AI research projects |
+| 🔄 | Active | Develop innovative developer tools |
+| 🔄 | Active | Publish technical resources & documentation |
+| 🔜 | Future | Launch AI ecosystem platforms |
+| 🔜 | Future | Build scalable cloud-native solutions |
+| 🔜 | Future | Create cybersecurity & security research tools |
+| 🔜 | Future | Grow a global developer community |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+🚀 **The journey has started — building intelligent technology for the future.**
+
+</div>
+
+<br/>
+
 🎯 Current Focus
 </div> <table> <tr> <td width="50%" align="center">
 🤖 Artificial Intelligence
@@ -1234,23 +1258,45 @@ Productivity Tools
 Engineering Utilities
 
 </td> </tr> </table> <br/> <div align="center">
-🌌 Future Goals
+<br/>
+
+<div align="center">
+
+## 🌌 Future Goals
+
+Building tomorrow's technology through **AI Innovation • Open Source • Security • Cloud Computing**
+
 </div>
-🚀 Build AI-powered products
 
-🤖 Create intelligent automation systems
+<br/>
 
-☁ Develop cloud-native platforms
+<div align="center">
 
-🔒 Advance secure software practices
+| 🚀 | Vision |
+|:---:|:---|
+| 🚀 | Build AI-powered products that solve real-world problems |
+| 🤖 | Create intelligent automation systems |
+| ☁️ | Develop scalable cloud-native platforms |
+| 🔒 | Advance secure software engineering practices |
+| 🛠️ | Release developer-first tools and frameworks |
+| 📚 | Create high-quality technical learning resources |
+| 🌍 | Expand global open-source collaboration |
+| 🔥 | Inspire the next generation of technology builders |
 
-🛠 Release developer-first tools
+</div>
 
-📚 Create technical learning resources
+<br/>
 
-🌍 Expand global open-source collaboration
+<div align="center">
 
-🔥 Inspire the next generation of builders
-<br/> <div align="center">
-🌟 The Journey Has Just Begun
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2800&pause=1000&color=00F5FF&center=true&width=850&lines=Small+Ideas.;Powerful+Technology.;Global+Impact."/> </div> ```
+## 🌟 The Journey Has Just Begun
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2800&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=Small+Ideas.;Powerful+Technology.;Global+Impact.;Building+The+Future+With+AI."/>
+
+<br/>
+
+### 🚀 Innovate • Build • Secure • Share
+
+</div>
+
+<br/>
