@@ -496,4 +496,26 @@ Growing through collaboration and shared knowledge.
 
 </div>
 
+Machine Learning
+Deep Learning
+LLMs
+AI Agents
+Computer Vision
+Natural Language Processing
+Generative AI
+
+
+<br/>
+
+
+## 🌐 Software Development Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind&perline=10"/>
+
+</div>
+
+
+
 
