@@ -496,13 +496,13 @@ Growing through collaboration and shared knowledge.
 
 </div>
 
-Machine Learning
-Deep Learning
-LLMs
-AI Agents
-Computer Vision
-Natural Language Processing
-Generative AI
+Machine Learning |
+Deep Learning  |
+LLMs  |
+AI Agents  |
+Computer Vision  |
+Natural Language Processing  |
+Generative AI  |
 
 
 <br/>
@@ -517,5 +517,10 @@ Generative AI
 </div>
 
 
-
+Frontend Engineering |
+Backend Development |
+Full Stack Applications |
+REST APIs |
+SaaS Platforms |
+Modern Web Architecture |
 
