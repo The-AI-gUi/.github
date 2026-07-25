@@ -427,17 +427,17 @@ Using technology to improve productivity.
 
 </div>
 
-Idea
-↓
-Research
-↓
-Innovation
-↓
-Engineering
-↓
-Open Source
-↓
-Real World Impact
+    Idea
+     ↓
+    Research
+     ↓
+    Innovation
+     ↓
+    Engineering
+     ↓
+    Open Source
+     ↓
+    Real World Impact
 
 
 
