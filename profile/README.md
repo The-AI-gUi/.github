@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 The AI GUY
+# The AI 👽 GUY 🤖
 
 ### Build. Learn. Innovate. Together.
 
