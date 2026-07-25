@@ -496,13 +496,13 @@ Growing through collaboration and shared knowledge.
 
 </div>
 
-Machine Learning |
-Deep Learning  |
-LLMs  |
-AI Agents  |
-Computer Vision  |
-Natural Language Processing  |
-Generative AI  |
+    Machine Learning |
+    Deep Learning |
+    LLMs |
+    AI Agents |
+    Computer Vision  |
+    Natural Language Processing |
+    Generative AI  
 
 
 <br/>
@@ -517,10 +517,25 @@ Generative AI  |
 </div>
 
 
-Frontend Engineering |
-Backend Development |
-Full Stack Applications |
-REST APIs |
-SaaS Platforms |
+    Frontend Engineering |
+    Backend Development |
+    Full Stack Applications |
+    REST APIs |
+    SaaS Platforms 
+
+
+
+<br/>
+
+
+## ☁ Cloud & DevOps Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,vercel,firebase,nginx&perline=8"/>
+
+</div>
+
+
 Modern Web Architecture |
 
