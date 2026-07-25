@@ -800,12 +800,13 @@ Sharing knowledge.
 
 <div align="center">
 
+<br/>
+
+<div align="center">
+
 # 🏗️ Our Development Process
 
-</div>
-
-
-```text
+<pre>
 💡 Idea
    │
    ▼
@@ -825,11 +826,15 @@ Sharing knowledge.
    │
    ▼
 🌍 Community Impact
+</pre>
+
+</div>
+
 <br/>
 
 <div align="center">
 
-## 📂 Repository Ecosystem
+# 📂 Repository Ecosystem
 
 </div>
 
@@ -852,8 +857,6 @@ Sharing knowledge.
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2800&pause=1000&color=00F5FF&center=true&width=850&lines=An+Idea.;A+Project.;A+Solution.;An+Impact."/>
 
 </div>
-
-<br/>
 
 <br/>
 
@@ -883,7 +886,9 @@ Open source is more than writing code — it is a movement powered by people who
 
 <div align="center">
 
-### 🌟 Our Community Values
+## 🌟 Our Community Values
+
+</div>
 
 | Value | Meaning |
 | :---: | :--- |
@@ -894,6 +899,8 @@ Open source is more than writing code — it is a movement powered by people who
 | 🚀 Contribution | Empowering open-source creators |
 
 <br/>
+
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2800&pause=1000&color=00F5FF&center=true&width=850&lines=Your+Code+Can+Create+Impact.;Your+Ideas+Can+Shape+The+Future.;Everyone+Is+Welcome+To+Build."/>
 
@@ -907,7 +914,6 @@ Open source is more than writing code — it is a movement powered by people who
 
 </div>
 
-
 <table>
 
 <tr>
@@ -918,10 +924,9 @@ Open source is more than writing code — it is a movement powered by people who
 
 ## Learn
 
-Gain practical experience by working on real projects.
+Gain practical experience by working on real-world projects.
 
 </td>
-
 
 <td align="center" width="25%">
 
@@ -933,7 +938,6 @@ Work with developers and innovators worldwide.
 
 </td>
 
-
 <td align="center" width="25%">
 
 # 💡
@@ -943,7 +947,6 @@ Work with developers and innovators worldwide.
 Transform ideas into meaningful technology.
 
 </td>
-
 
 <td align="center" width="25%">
 
@@ -959,16 +962,13 @@ Build skills, confidence, and your portfolio.
 
 </table>
 
-
 <br/>
-
 
 <div align="center">
 
 # 🛠 Contribution Paths
 
 </div>
-
 
 <table>
 
@@ -986,9 +986,7 @@ Developers can contribute through:
 - 🧩 New modules
 - 🔧 Code optimization
 
-
 </td>
-
 
 <td width="50%">
 
@@ -1002,15 +1000,13 @@ Community members can help through:
 - 🌐 Translations
 - 📖 Examples
 
-
 </td>
 
 </tr>
 
-
 <tr>
 
-<td>
+<td width="50%">
 
 ## 🧪 Quality Contributions
 
@@ -1021,11 +1017,9 @@ Help improve projects by:
 - ✅ Reviewing changes
 - 📊 Providing feedback
 
-
 </td>
 
-
-<td>
+<td width="50%">
 
 ## 🌍 Community Contributions
 
@@ -1036,16 +1030,13 @@ Support growth through:
 - 🤝 Helping newcomers
 - 📢 Spreading awareness
 
-
 </td>
 
 </tr>
 
 </table>
 
-
 <br/>
-
 
 <div align="center">
 
@@ -1053,8 +1044,7 @@ Support growth through:
 
 </div>
 
-
-```text
+<pre>
 ⭐ Explore Repository
           │
           ▼
@@ -1074,29 +1064,49 @@ Support growth through:
           │
           ▼
 🎉 Collaborate & Merge
+</pre>
 
+<br/>
 
-<br/> <div align="center">
-🏆 Community Values
+<div align="center">
+
+# 🏆 Community Values
+
 </div>
-⭐ Value	Meaning
-🤝 Respect	Everyone deserves a welcoming environment
-💡 Learning	Every contribution is an opportunity to improve
-🚀 Innovation	Explore new ideas and technologies
-🔒 Responsibility	Build secure and ethical solutions
-🌍 Collaboration	Better technology comes from teamwork
-<br/> <div align="center">
-🌟 Everyone Is Welcome
+
+| Value | Meaning |
+| :---: | :--- |
+| ⭐ Respect | Everyone deserves a welcoming environment |
+| 💡 Learning | Every contribution is an opportunity to improve |
+| 🚀 Innovation | Explore new ideas and technologies |
+| 🔒 Responsibility | Build secure and ethical solutions |
+| 🌍 Collaboration | Better technology comes from teamwork |
+
+<br/>
+
+<div align="center">
+
+# 🌟 Everyone Is Welcome
+
+</div>
 
 Whether you are:
 
-👨‍💻 Developer
-🎓 Student
-🤖 AI Enthusiast
-🔒 Security Learner
-☁ Cloud Explorer
-💡 Technology Creator
+👨‍💻 Developer  
+🎓 Student  
+🤖 AI Enthusiast  
+🔒 Security Learner  
+☁ Cloud Explorer  
+💡 Technology Creator  
 
-You can contribute and grow with us.
+You can contribute, learn, and grow with **The AI 👽 GUY 🤖 community**.
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00F5FF&center=true&width=850&lines=Your+First+Commit+Can+Start+Something+Big."/> </div> ```
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00F5FF&center=true&width=850&lines=Your+First+Commit+Can+Start+Something+Big."/>
+
+</div>
+
+<br/></div> ```
