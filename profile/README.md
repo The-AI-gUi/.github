@@ -768,7 +768,7 @@ Support Others
   />
   <img
     alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/invisiblehqck/invisiblehqck/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/The-AI-gUi/The-AI-gUi/output/github-contribution-grid-snake-dark.svg"
   />
 </picture>
 
@@ -1070,3 +1070,140 @@ Building knowledge in secure development, networking, ethical hacking, and defen
 > Creating technology that inspires innovation and empowers communities."
 
 </div>
+
+<div align="center">
+
+# 📊 GitHub Analytics
+
+### Measuring Growth Through Code, Collaboration & Innovation
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img 
+src="https://github-readme-stats.vercel.app/api?username=The-AI-GUY&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+height="180"
+/>
+
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-AI-GUY&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+height="180"
+/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img 
+src="https://github-readme-streak-stats.herokuapp.com/?user=The-AI-GUY&theme=tokyonight&hide_border=true"
+/>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+# 🐍 Contribution Activity
+
+### Every contribution represents progress 🚀
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<picture>
+
+<source 
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/The-AI-gUi/The-AI-gUi/output/github-contribution-grid-snake-dark.svg"
+/>
+
+<source 
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/The-AI-gUi/The-AI-gUi/output/github-contribution-grid-snake.svg"
+/>
+
+<img 
+alt="github contribution snake animation"
+src="https://raw.githubusercontent.com/The-AI-gUi/The-AI-gUi/output/github-contribution-grid-snake.svg"
+/>
+
+</picture>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## ⚡ Development Activity
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="33%" align="center">
+
+### 💻 Code
+
+Daily learning  
+Project development  
+Open-source contribution
+
+</td>
+
+<td width="33%" align="center">
+
+### 🧠 Knowledge
+
+AI research  
+Security exploration  
+Cloud technologies
+
+</td>
+
+<td width="33%" align="center">
+
+### 🌎 Community
+
+Collaboration  
+Developer growth  
+Knowledge sharing
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=The-AI-gUi&label=Organization%20Visitors&color=blue&style=for-the-badge"/>
+
+</div>
+
+
