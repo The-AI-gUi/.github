@@ -1205,3 +1205,153 @@ Knowledge sharing
 <img src="https://komarev.com/ghpvc/?username=The-AI-gUi&label=Organization%20Visitors&color=blue&style=for-the-badge"/>
 
 </div>
+
+<div align="center">
+
+# 🛠️ Technology Stack
+
+### Building Modern Solutions with Industry-Leading Technologies
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,c,bash&perline=7"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🌐 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,vite&perline=6"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&perline=4"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,supabase&perline=5"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🤖 Artificial Intelligence
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=2"/>
+
+<br/>
+
+OpenAI • Gemini • LangChain • RAG • Prompt Engineering • AI Agents
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,vercel,netlify,cloudflare&perline=8"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🔐 Cybersecurity
+
+<img src="https://skillicons.dev/icons?i=linux,kali,bash&perline=3"/>
+
+<br/>
+
+OWASP • Web Security • Network Security • Ethical Hacking • Secure Coding
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🛠️ Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,pnpm,yarn,figma&perline=8"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 📊 Workflow
+
+```text
+💡 Idea
+    │
+    ▼
+🔬 Research
+    │
+    ▼
+🎨 Design
+    │
+    ▼
+⚙️ Development
+    │
+    ▼
+🧪 Testing
+    │
+    ▼
+🚀 Deployment
+    │
+    ▼
+🌍 Community Impact
+```
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### 🚀 Our Engineering Principles
+
+| 🚀 Innovation | 🔒 Security | ⚡ Performance | 🌎 Open Source |
+|:-------------:|:----------:|:-------------:|:--------------:|
+| AI-First Development | Secure by Design | Optimized Solutions | Community Driven |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C9FF,50:7F5AF0,100:FF0080&section=footer"/>
+
+</div>
