@@ -1206,6 +1206,8 @@ Knowledge sharing
 
 </div>
 
+<br/>
+
 <div align="center">
 
 # 🛠️ Technology Stack
@@ -1306,41 +1308,11 @@ OWASP • Web Security • Network Security • Ethical Hacking • Secure Codin
 
 <br/>
 
-<div align="center">
-
-## 📊 Workflow
-
-```text
-💡 Idea
-    │
-    ▼
-🔬 Research
-    │
-    ▼
-🎨 Design
-    │
-    ▼
-⚙️ Development
-    │
-    ▼
-🧪 Testing
-    │
-    ▼
-🚀 Deployment
-    │
-    ▼
-🌍 Community Impact
-```
-
-</div>
-
-<br/>
-
 ---
 
 <div align="center">
 
-### 🚀 Our Engineering Principles
+## 📊 Our Engineering Principles
 
 | 🚀 Innovation | 🔒 Security | ⚡ Performance | 🌎 Open Source |
 |:-------------:|:----------:|:-------------:|:--------------:|
@@ -1350,8 +1322,34 @@ OWASP • Web Security • Network Security • Ethical Hacking • Secure Codin
 
 <br/>
 
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C9FF,50:7F5AF0,100:FF0080&section=footer"/>
+# 🚀 Keep Building. Keep Learning. Keep Innovating.
+
+### Every great innovation begins with a single line of code.
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Think+Beyond+Limits.;Build+With+Purpose.;Create+With+AI.;Secure+The+Future.;Welcome+to+The+AI+👽+GUY+🤖"/>
+
+<br/>
+
+### "The future isn't waiting to be discovered — it's waiting to be built."
+
+<br/>
+
+❤️ Thanks for visiting our community.
+
+⭐ Star • Follow • Contribute • Build the Future
+
+<br/>
+
+# 👽 The AI GUY 🤖
+
+### Learn • Build • Secure • Innovate • Inspire
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00F5FF,50:6C63FF,100:FF0080&section=footer"/>
 
 </div>
