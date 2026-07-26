@@ -764,12 +764,309 @@ Support Others
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/The-AI-GUY/The-AI-GUY/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/invisiblehqck/invisiblehqck/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/The-AI-GUY/The-AI-GUY/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/invisiblehqck/invisiblehqck/output/github-contribution-grid-snake-dark.svg"
   />
 </picture>
+
+</div>
+
+<div align="center">
+
+# 🚀 Our Innovation Lab
+
+### Building Intelligent Solutions Through  
+**Artificial Intelligence • Software Engineering • Cybersecurity • Cloud**
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png"/>
+
+### 🤖 AI & Machine Learning
+
+Building intelligent systems, automation tools, and AI-powered applications that solve real-world challenges.
+
+</td>
+
+<td width="33%" align="center">
+
+<img src="https://img.icons8.com/fluency/96/code.png"/>
+
+### 💻 Software Engineering
+
+Creating scalable full-stack applications with modern frameworks, clean architecture, and developer-first experiences.
+
+</td>
+
+<td width="33%" align="center">
+
+<img src="https://img.icons8.com/fluency/96/cyber-security.png"/>
+
+### 🔐 Cybersecurity
+
+Exploring secure development, ethical hacking, vulnerability research, and defensive security practices.
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## 🌟 Featured Projects
+
+</div>
+
+<br/>
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🤖 AI SaaS Platform
+
+An AI-powered platform combining modern web technologies with intelligent automation.
+
+**Tech Stack**
+
+`Next.js` `React` `Node.js` `PostgreSQL`  
+`AI APIs` `Cloud Services`
+
+</td>
+
+<td width="50%">
+
+### 🔗 ELINK
+
+A digital identity and social passport platform designed to connect people through technology.
+
+**Tech Stack**
+
+`React` `Node.js` `MongoDB`  
+`Cloud Infrastructure`
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td width="50%">
+
+### 🏠 Smart Home Automation
+
+IoT-based automation system using embedded devices and connected technologies.
+
+**Tech Stack**
+
+`ESP32` `ESP8266` `IoT`  
+`Sensors` `Automation`
+
+</td>
+
+<td width="50%">
+
+### 🕵️ Security Research Tools
+
+Experimental tools focused on cybersecurity learning, automation, and security awareness.
+
+**Focus Areas**
+
+`Python` `Linux` `Networking`  
+`Ethical Security`
+
+</td>
+
+</tr>
+
+</table>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/The-AI-GUY">
+<img src="https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<div align="center">
+
+# 🏆 Achievements & Recognition
+
+### Celebrating Learning, Innovation & Community Contributions
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="33%" align="center">
+
+<img src="https://img.icons8.com/fluency/96/trophy.png"/>
+
+### 🌍 Open Source
+
+Contributing to the global developer community through open-source projects, collaborations, and knowledge sharing.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge&logo=github"/>
+
+</td>
+
+
+<td width="33%" align="center">
+
+<img src="https://img.icons8.com/fluency/96/google-logo.png"/>
+
+### ☁️ Google Cloud
+
+Completed cloud learning paths, AI challenges, and hands-on projects through Google Cloud programs.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Google%20Cloud-Learner-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+</td>
+
+
+<td width="33%" align="center">
+
+<img src="https://img.icons8.com/fluency/96/security-checked.png"/>
+
+### 🔐 Cybersecurity
+
+Building knowledge in secure development, networking, ethical hacking, and defensive security.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Security-Researcher-red?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## 🎖️ Certifications & Programs
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%" align="center">
+
+### 🏅 Cisco Networking Academy
+
+📌 Data Fundamentals  
+📌 Cybersecurity Fundamentals  
+📌 Networking Essentials  
+
+<img src="https://img.shields.io/badge/Cisco-Networking%20Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+</td>
+
+
+<td width="50%" align="center">
+
+### ☁️ Google Cloud Skills
+
+📌 Cloud Operations  
+📌 Kubernetes  
+📌 Vertex AI  
+📌 Cloud Infrastructure  
+
+<img src="https://img.shields.io/badge/Google%20Cloud-Skills%20Badges-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td width="50%" align="center">
+
+### 🔷 Microsoft Learn
+
+📌 Azure Fundamentals  
+📌 Artificial Intelligence  
+📌 Cloud Computing  
+
+<img src="https://img.shields.io/badge/Microsoft-Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+</td>
+
+
+<td width="50%" align="center">
+
+### 🚀 Developer Programs
+
+📌 Google Arcade  
+📌 GirlScript Summer of Code  
+📌 Hacktoberfest  
+
+<img src="https://img.shields.io/badge/Community-Driven-purple?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## 🌟 Our Mission
+
+> "Learn. Build. Share.  
+> Creating technology that inspires innovation and empowers communities."
 
 </div>
