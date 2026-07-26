@@ -1100,7 +1100,7 @@ height="180"
 <div align="center">
 
 <img 
-src="https://github-readme-streak-stats.herokuapp.com/?user=invisiblehqck&theme=tokyonight&hide_border=true"
+src="https://streak-stats.demolab.com/?user=invisiblehqck&theme=tokyonight&hide_border=true"
 />
 
 </div>
